@@ -1,1 +1,1 @@
-Rock, paper, scissors: open inspect me and play directly in the console by calling playGame().
+Rock, paper, scissors: open Inspect and play directly in the console by calling playGame().
